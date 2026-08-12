@@ -1,7 +1,7 @@
-content = r"""<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=250&section=header&text=M.%20Shyaam%20Karodiya&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" />
 
-  <a href="https://github.com/shyaamkarodiya"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Software+Engineer;AI%2FML+Developer;Full-Stack+Innovator" alt="Typing SVG" /></a>
+  <a href="https://github.com/Shyaam-04"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Software+Engineer;AI%2FML+Developer;Full-Stack+Innovator" alt="Typing SVG" /></a>
 
   <p>
     <img src="https://img.shields.io/badge/Education-Shiv_Nadar_University-4B0082?style=for-the-badge&logo=book&logoColor=white" alt="Academic" />
@@ -9,13 +9,13 @@ content = r"""<div align="center">
     <a href="#"><img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
     <a href="https://linkedin.com/in/shyaamkarodiya"><img src="https://img.shields.io/badge/LinkedIn-shyaamkarodiya-6610f2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:shyaamkarodiya04@gmail.com"><img src="https://img.shields.io/badge/Email-shyaamkarodiya04%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/shyaamkarodiya"><img src="https://img.shields.io/badge/GitHub-shyaamkarodiya-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/Shyaam-04"><img src="https://img.shields.io/badge/GitHub-Shyaam--04-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=shyaamkarodiya&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/shyaamkarodiya?color=blueviolet&style=flat-square&label=FOLLOWERS" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/shyaamkarodiya?color=blueviolet&style=flat-square&label=STARS" alt="Stars" />
+    <img src="https://komarev.com/ghpvc/?username=Shyaam-04&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Shyaam-04?color=blueviolet&style=flat-square&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Shyaam-04?color=blueviolet&style=flat-square&label=STARS" alt="Stars" />
   </p>
 </div>
 
@@ -76,7 +76,7 @@ I am a Computer Science Engineering (IoT) student at Shiv Nadar University, spec
   | **Performance**| Maintained high precision on exact matches with TTL-based caching layer ensuring zero empty responses. |
   | **Security** | 100% on-device processing removing dependence on external medical APIs. |
   | **Impact** | Eliminated hallucinated interactions, grounding outputs in OpenFDA evidence with a three-tier confidence rating. |
-  | **Repository** | <a href="https://github.com/shyaamkarodiya">View Source Code</a> |
+  | **Repository** | <a href="https://github.com/Shyaam-04">View Source Code</a> |
 </details>
 
 <details>
@@ -91,7 +91,7 @@ I am a Computer Science Engineering (IoT) student at Shiv Nadar University, spec
   | **Performance**| Restricted LLM synthesis to Top-K chunks to cut token cost and latency by 90%. |
   | **Security** | Demographic Guardrails and RAM-cached GPT-4o Mini extraction mathematically preventing PII hallucination. |
   | **Impact** | Designed a geometric citation UI rendering pixel-accurate highlights over source PDFs for audit traceability. |
-  | **Repository** | <a href="https://github.com/shyaamkarodiya">View Source Code</a> |
+  | **Repository** | <a href="https://github.com/Shyaam-04">View Source Code</a> |
 </details>
 
 <details>
@@ -106,7 +106,7 @@ I am a Computer Science Engineering (IoT) student at Shiv Nadar University, spec
   | **Performance**| Implemented server-side ranking with SQL ORDER BY for leaderboard generation, avoiding client-side computation. |
   | **Security** | Standardized REST API endpoints prioritizing data abstraction. |
   | **Impact** | Enhanced user experience with high-speed rendering via multi-level drill-down architecture. |
-  | **Repository** | <a href="https://github.com/shyaamkarodiya">View Source Code</a> |
+  | **Repository** | <a href="https://github.com/Shyaam-04">View Source Code</a> |
 </details>
 
 ---
@@ -165,26 +165,26 @@ I am a Computer Science Engineering (IoT) student at Shiv Nadar University, spec
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyaamkarodiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyaam-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyaamkarodiya&theme=tokyonight&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyaam-04&theme=tokyonight&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyaamkarodiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyaam-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyaamkarodiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shyaam-04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 <h2 align="center">🔥 Contribution Activity</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyaamkarodiya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyaam-04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF" alt="Activity Graph" />
 </div>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shyaamkarodiya/shyaamkarodiya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Shyaam-04/Shyaam-04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
