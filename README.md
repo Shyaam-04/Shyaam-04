@@ -6,7 +6,6 @@
   <p>
     <img src="https://img.shields.io/badge/Education-Shiv_Nadar_University-4B0082?style=for-the-badge&logo=book&logoColor=white" alt="Academic" />
     <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-4B0082?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
     <a href="https://linkedin.com/in/shyaamkarodiya"><img src="https://img.shields.io/badge/LinkedIn-shyaamkarodiya-6610f2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:shyaamkarodiya04@gmail.com"><img src="https://img.shields.io/badge/Email-shyaamkarodiya04%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Shyaam-04"><img src="https://img.shields.io/badge/GitHub-Shyaam--04-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -165,11 +164,11 @@ I am a Computer Science Engineering (IoT) student at Shiv Nadar University, spec
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyaam-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Shyaam-04/Shyaam-04/output/github-stats.svg" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyaam-04&theme=tokyonight&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Shyaam-04/Shyaam-04/output/github-streak.svg" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyaam-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Shyaam-04/Shyaam-04/output/github-top-langs.svg" alt="Top Languages" />
 </div>
 
 <h2 align="center">🏆 GitHub Trophies</h2>

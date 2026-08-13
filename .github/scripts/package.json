@@ -1,0 +1,9 @@
+{
+  "name": "generate-github-badges",
+  "version": "0.1.0",
+  "description": "Generate GitHub stats, streak and top languages SVGs for README",
+  "private": true,
+  "scripts": {
+    "start": "node generate-badges.js"
+  }
+}
