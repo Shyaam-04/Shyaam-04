@@ -1,4 +1,4 @@
-name: Generate GitHub Badges
+name: Generate GitHub Metrics
 
 on:
   schedule:
@@ -26,14 +26,22 @@ jobs:
         run: |
           npm ci --prefix .github/scripts || npm install --prefix .github/scripts
 
-      - name: Generate badges
+      - name: Generate custom badges
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: ${{ github.repository_owner }}
         run: node generate-badges.js
         working-directory: .github/scripts
 
-      - name: Publish to output branch
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish all to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
