@@ -156,7 +156,7 @@ I am a Computer Science Engineering (IoT) student at Shiv Nadar University, spec
 <h2 align="center">🧑‍💻 Coding Profiles</h2>
 
 <div align="center">
-  <a href="https://leetcode.com/Shyaam-04"><img src="https://img.shields.io/badge/LeetCode-Shyaam_04-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/Shyaam_Karodiya"><img src="https://img.shields.io/badge/LeetCode-Shyaam_04-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </div>
 
 ---
